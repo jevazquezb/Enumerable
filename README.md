@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage
 
-    ruby myEnumerable.rb
+    ruby my_list.rb
 
 ### Done!
 
